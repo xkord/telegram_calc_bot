@@ -7,7 +7,7 @@ This bot can do different calculations.
 Execute:
 
 ```sh
-https://github.com/xkord/telegram_calc_bot
+git clone https://github.com/xkord/telegram_calc_bot
 ```
 
 You can use virtualenv and install project into python virtual environment:
