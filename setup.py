@@ -10,8 +10,8 @@ setup(
     description = 'A Python Telegram Bot for different calculations.',
     author = 'Kord J.',
     author_email = 'xxkord@gmail.com',
-    url = 'https://github.com/xxkord',
-    download_url = 'https://github.com/xxkord',
+    url = 'https://github.com/xkord/telegram_calc_bot',
+    download_url = 'https://github.com/xkord/telegram_calc_bot',
     keywords='telegram python messenger bot mathematic programming',
     classifiers = [
         'Programming Language :: Python',

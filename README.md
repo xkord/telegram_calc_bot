@@ -1,4 +1,4 @@
-# Telegram Python3 MathProgBot (calcbot)
+# Telegram Python3 MathProgBot (telegram_calc_bot)
 
 This bot can do different calculations.
 
@@ -7,7 +7,7 @@ This bot can do different calculations.
 Execute:
 
 ```sh
-git clone https://github.com/xkord/tg_math_prog_bot
+https://github.com/xkord/telegram_calc_bot
 ```
 
 You can use virtualenv and install project into python virtual environment:
@@ -26,5 +26,5 @@ python setup.py install
 ## Usage
 
 ```sh
-python3 math_prog_bot.py 1>/dev/null 2>&1 &
+tg_math_prog_bot -V
 ```
